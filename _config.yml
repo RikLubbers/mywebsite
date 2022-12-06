@@ -108,7 +108,7 @@ content:
           
           
       - layout: left
-        title: Vrije Universiteit Amsterdam 
+        #title: Vrije Universiteit Amsterdam 
         caption: 2019 - 2020
         sub_title: Pre-master Health Sciences
         description: | # this will include new lines to allow paragraphs
