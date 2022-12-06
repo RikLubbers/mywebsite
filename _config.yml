@@ -94,6 +94,7 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
         
+        ------------------------------------
          
       - layout: left
         title: Vrije Universiteit Amsterdam 
@@ -106,7 +107,6 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
           
-          
       - layout: left
         #title: Vrije Universiteit Amsterdam 
         caption: 2019 - 2020
@@ -116,6 +116,9 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
           
+          
+        ------------------------------------
+                    
       - layout: left
         title: Hanze University Groningen
         caption: 2015 - 2019
