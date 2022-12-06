@@ -9,7 +9,7 @@ version: 2
 name: Rik Lubbers
 title: Research Master student in Clinical and Psychosocial Epidemiology, Health Systems and Prevention
 email: rik.lubbers@outlook.com
-website: www.RikLubbers.github.io/MyWebsite
+Resume: www.RikLubbers.github.io/MyWebsite
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -27,13 +27,13 @@ linkedin_username: rik-lubbers
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0002-2772-1524
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+ # icon: fas fa-globe
+  #url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rik and I'm currently a student at the University of Groningen. I am pursuing my second master degree in Clinical and Psychosocial Epidemiolgy, Health systemsn and prevention.
   I am mostly interested in research in Low- and Middle-Income countries focusing on maternal and neonatal health and pharmaceutical systems. 
 
-  I am  skilled in: <mark>R</mark>, <mark>Research</mark> and <mark>research</mark>
+  As of now my best skills include being <mark>open-minded</mark>, <mark> curious </mark> and <mark>interested</mark> in learning new things, such as creating a resume using github.
 
 content:
   - title: Projects # Title for the section
@@ -91,11 +91,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University of Groningen
+        caption: 2020 - 2022
+        sub_title: MSc in Clinical and Psychosocial Epidemiology, Health Systems and Prevention
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          A renowned public research university of more than 30,000 students in the city of Groningen in the Netherlands. Founded in 1614, the university is the second oldest in the country and one of the most traditional and prestigious universities in the Netherlands.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -104,11 +104,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in research in health systems and low- and middle-income countries my other interest and hobbies are:
+      - Playing basketball
+      - Reading (fiction and non-fiction), link to [GoodReads](https://www.goodreads.com/user/show/46131131-rik-lubbers)
+      - Walks in nature
+      - Watching documentaries 
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
