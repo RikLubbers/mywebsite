@@ -9,6 +9,8 @@ version: 2
 name: Rik Lubbers, MSc
 title: Research Master student in Clinical and Psychosocial Epidemiology, Health Systems and Prevention
 email: rik.lubbers@outlook.com
+phone: +31 6 346 268 94
+# phone_title: Phone (Phone title override)
 website: www.RikLubbers.github.io/MyWebsite
 
 # Dark Mode (true/false/never)
@@ -48,16 +50,18 @@ orcid_username: 0000-0002-2772-1524
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rik and I'm currently a student at the University of Groningen. I am pursuing my second master degree in Clinical and Psychosocial Epidemiolgy, Health systemsn and prevention.
-  I am mostly interested in research in Low- and Middle-Income countries focusing on maternal and neonatal health and pharmaceutical systems. 
+  Hi, my name's Rik and thank you for your interest in my website. Currently I am a student at the University of Groningen where I am pursuing my second master degree in Clinical and Psychosocial Epidemiolgy, Health systems and prevention.
+  
+  My research interests lie mostly in Low- and Middle-Income countries focusing on maternal and neonatal health and pharmaceutical systems. However, I must say that my interests are broad and yet carved into stone. 
 
-  As of now my best skills include being <mark>open-minded</mark>, <mark> curious </mark> and <mark>interested</mark> in learning new things, such as creating a resume using github.
+  As of now, my best skills include being <mark>open-minded</mark>, <mark> curious </mark> and <mark>interested</mark> in learning new skills and topics, such as creating a resume using github or my recent endeavours in using RStudio.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        border: weak
         title: Physical Healthcare Facility Access and Malnutrition in Children Under-5 in Uganda (forthcoming)
         link: Link to complete pdf file
         # link_text: Link to document
@@ -94,7 +98,7 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
                  
-      - layout: left
+      - layout: right
         title: Vrije Universiteit Amsterdam 
         caption: 2020 - 2021
         sub_title: MSc in International Public Health
@@ -105,7 +109,7 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
           
-      - layout: left
+      - layout: right
         #title: Vrije Universiteit Amsterdam 
         caption: 2019 - 2020
         sub_title: Pre-master Health Sciences
@@ -129,7 +133,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in research in health systems and low- and middle-income countries my other interest and hobbies are:
+      Alongside my interests in research in health systems and low- and middle-income countries, my other interest and hobbies are:
       - Playing basketball
       - Reading (fiction and non-fiction), link to [GoodReads](https://www.goodreads.com/user/show/46131131-rik-lubbers)
       - Zen Buddhism 
