@@ -102,9 +102,11 @@ content:
         quote: >
           A renowned public research university of more than 30,000 students in the city of Groningen in the Netherlands. Founded in 1614, the university is the second oldest in the country and one of the most traditional and prestigious universities in the Netherlands.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          This master aims at combining cutting-edge interdisciplinary research with practical policy questions, aiming to solve complex public health problems related to societal issues like an ageing population, increasing levels of chronic diseases, widening health inequalities, migration and urbanization. You learn to tackle issues like these from various academic disciplines, as you are taught and supervised by experts in economics, spatial sciences, psychology, sociology, and medicine.
+          
+          During my time at University of Groningen I learnt most of my key skills such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time as a basketball player of the *Groene Uilen-Moestasj basketball association*.
                  
       - layout: left
         title: Vrije Universiteit Amsterdam 
@@ -113,19 +115,15 @@ content:
         quote: >
           A renowned public research university founded in 1880. The university consistently ranks among the top 150 universities in the world by prominent international ranking tables.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-          
+          This master is aimed at mastering knowledge and skills in analyzing complex health or health care problems and in contributing to the development and implementation of interventions or programs to solve these problems.
+       
+          I spent my free time as a co-founder and podcaster of the widely published weekly podcast *"onthaasten"*. The podcast is discontinued now but I look back joyfully on the discussion we've had on all topics related to slowed down intentful life.          
       - layout: left
         #title: Vrije Universiteit Amsterdam 
         caption: 2019 - 2020
         sub_title: Pre-master Health Sciences
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-                    
+          Coming from an University of Applied Sciences I had to follow a pre-master to be eligible for the master program in International Public Health.           
       - layout: left
         title: Hanze University Groningen
         caption: 2015 - 2019
