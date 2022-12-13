@@ -43,7 +43,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
   gtm: "GTM-PCGF9WK"
   gtag: "G-P5350H4GKX"
-# google_analytics: "UA-00000000-0"
+  google_analytics: "G-P5350H4GKX"
 
 # About Section
 # about_title: About Me
