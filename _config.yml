@@ -131,9 +131,7 @@ content:
         quote: >
           The largest technical & vocational university in the northern Netherlands.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my bachelor's I was trained to be a nurse. As I could not express my curiosity I decided to continue studying. Nevertheless my bachelor has provided me with valuable lessons from the field as well has provided me with experience in somatic and psychiatric care. 
 
 
   - title: A Little More About Me
@@ -145,6 +143,8 @@ content:
       - Zen Buddhism 
       - Walks in nature
       - Watching documentaries 
+      - And... (copyright of Sarah Scribbles)
+      ![Scribble from Sarah Scribbles](images/scribble.jpg "Sahar Scribbles picture")
 
       [Link](link here) to PDF resume
 
