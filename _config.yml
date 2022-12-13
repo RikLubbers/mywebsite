@@ -101,7 +101,7 @@ content:
         quote: >
           A highly theoretical exploration of sub-national pharmaceutical systems to enhance access to essential medicines. 
         description: | # this will include new lines to allow paragraphs
-        I was part of a research project that conceptualised a sub-national pharmaceutical system to enable measuring and eventually improve access to essential medicines. Creating such a concept enables countries to conduct intersub-national comparisons and hereby providing them with many insight and learning opportunities.
+            I was part of a research project that conceptualised a sub-national pharmaceutical system to enable measuring and eventually improve access to essential medicines. Creating such a concept enables countries to conduct intersub-national comparisons and hereby providing them with many insight and learning opportunities.
         
         
       - layout: left
@@ -113,7 +113,7 @@ content:
         quote: >
           Teaching and asstisting students in foundational statistics 
         description: | # this will include new lines to allow paragraphs
-        As a side-job during my time 
+            As a side-job during my time 
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
