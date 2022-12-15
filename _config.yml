@@ -84,7 +84,7 @@ content:
       - layout: left
         title: Erasmus school of Health Policy and Management
         link: https://www.eur.nl/en/eshpm
-        # link_text: https://www.eur.nl/en/eshpm
+        link_text: Erasmus school of Health Policy and Management
         sub_title: Research Assistant
         caption: October 2021 - June 2022
         quote: >
@@ -95,7 +95,7 @@ content:
       - layout: left
         title: Erasmus school of Health Policy and Management
         link: https://www.eur.nl/en/eshpm
-        # link_text: https://www.eur.nl/en/eshpm
+        link_text: Erasmus school of Health Policy and Management
         sub_title: Research intern
         caption: February 2021 - August 2021
         quote: >
@@ -106,7 +106,7 @@ content:
       - layout: left
         title: Vrije Universiteit
         link: https://research.vu.nl/en/organisations/methodology-and-applied-biostatistics-2/network-organisations/
-        # link_text: Vrije Universiteit Department of Methodology and Biostatistics
+        link_text: Vrije Universiteit Department of Methodology and Biostatistics
         sub_title: Research intern
         caption: February 2021 - August 2021
         quote: >
