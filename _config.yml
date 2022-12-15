@@ -168,7 +168,7 @@ content:
       - And... (copyright of Sarah Scribbles)
       ![Scribble from Sarah Scribbles](images/scribble.jpg "Sahar Scribbles picture")
 
-      #[Link](link here) to PDF resume
+#[Link](link here) to PDF resume
 
 # Footer
 footer_show_references: true
