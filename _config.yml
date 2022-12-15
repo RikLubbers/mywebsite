@@ -62,7 +62,7 @@ content:
       - layout: top-middle
         border: weak
         title: Physical Healthcare Facility Access and Malnutrition in Children Under-5 in Uganda (forthcoming)
-        link: Link to complete pdf file
+        # link: Link to complete pdf file
         # link_text: Link to document
         quote: >
           Estimating the impact of physical healthcare facility access on malnutrition rates in children under-5 in Uganda 
@@ -168,7 +168,7 @@ content:
       - And... (copyright of Sarah Scribbles)
       ![Scribble from Sarah Scribbles](images/scribble.jpg "Sahar Scribbles picture")
 
-      [Link](link here) to PDF resume
+      #[Link](link here) to PDF resume
 
 # Footer
 footer_show_references: true
