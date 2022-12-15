@@ -49,9 +49,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rik and thank you for your interest in my website. Currently I am a student at the University of Groningen where I am pursuing my second master degree in Clinical and Psychosocial Epidemiolgy, Health systems and prevention.
-  
-  My research interests lie mostly in Low- and Middle-Income countries focusing on maternal and neonatal health and pharmaceutical systems. However, I must say that my interests are broad and yet carved into stone. 
+  Hi, my name’s Rik, and thank you for your interest in my personal website. Currently, I am a student at the University of Groningen where I am pursuing my second master's degree in Clinical and Psychosocial Epidemiology, Health systems, and prevention.
+
+  My research interests lie mostly in Low- and Middle-Income countries focusing on maternal and neonatal health and pharmaceutical systems. However, I must say that my interests are broad and yet carved into stone.
 
   As of now, my best skills include being <mark>open-minded</mark>, <mark> curious </mark> and <mark>interested</mark> in learning new skills and topics, such as creating a resume using github or my recent endeavours in using RStudio.
 
@@ -90,7 +90,7 @@ content:
         quote: >
           Being part of a multidisciplinary international team trying to gather the knowledge on substandard and falsified medicine. 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            After my internship at the Erasmus school of Health Policy and Management I was hired to create a database including all quantititave studies on substandard- and falsified medicine conducted. The database provided me knowledge and experience in conducting systematic search strategies to ensure all relevant document are gathered. Afterwards, I supervised a class of student who read the articles and added the data using KoboToolbox. Lastly, I cleaned and managed the data and currently students are building upon the data in the database.
             
       - layout: left
         title: Erasmus school of Health Policy and Management
@@ -103,7 +103,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             I was part of a research project that conceptualised a sub-national pharmaceutical system to enable measuring and eventually improve access to essential medicines. Creating such a concept enables countries to conduct intersub-national comparisons and hereby providing them with many insight and learning opportunities.
         
-        
       - layout: left
         title: Vrije Universiteit
         link: https://research.vu.nl/en/organisations/methodology-and-applied-biostatistics-2/network-organisations/
@@ -113,7 +112,7 @@ content:
         quote: >
           Teaching and asstisting students in foundational statistics 
         description: | # this will include new lines to allow paragraphs
-            As a side-job during my time 
+            As a side-job during my first master's degree where I taught foundational statistics to students pursuing the pre-master health sciences. Due to my high grades in statistics, I was allowed to teach and guide students in concepts such as t-tests, z-tests, chi-square, ANOVA and linear & logistic regression analyses. 
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
